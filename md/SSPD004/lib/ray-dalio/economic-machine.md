@@ -14,7 +14,7 @@
 
 - 因交易形成了三股主要的经济动力：
 
-   <img src="../../../../images/SSPD004/lib/ray-dalio/economic-machine/dongli.png" width="500px">
+    <img src="../../../../images/SSPD004/lib/ray-dalio/economic-machine/dongli.png" width="500px">
 
   - 生产率的提高。
   - 短期债务周期。
