@@ -6,6 +6,34 @@
 
 [TOC]
 
+## <small>[20191204]</small> さがれ！
+
+**さがれ！**
+
+**退后！**
+
+Stand back! / Get back! / Back off!
+
+ <img src="../../images/SSPD001/20191204.jpg" height="150px">
+
+| 单词   | 发音   |
+| ------ | ------ |
+| 下がる | さがる |
+
+日语在发号施令的时候，需将命令动词变为命令形使用。
+
+虽然生活中很少命令别人，但在命令形在「紧急时刻」比如地震火灾呼喊大家快跑，或者「加油助威」比如看足球比赛让球员快跑，这种场合还是会经常使用的。
+
+下がる这个词有向「下」移动和向「后」移动两种意思。
+
+下がる这个词是第１类动词，第１类动词变命令形，将该动词的ます形去ます后，将末尾假名变到え段即可。
+
+比如下がる变ます形是下がります，去掉ます后剩下がり，末尾假名り对应的え段假名是れ，即把り再变成れ即可，也就是下がれ！意思就是命令他人退后，注意要读出命令的口气。
+
+注意：当你用输入法打さがる的时候会出现退がる候选，但是退がる这个汉字是错误的，日语里さがる的正确当用汉字只有下がる。但是退がる明显更符合退后的含义，可能有历史和规范的原因我们不深究，记住要么只写假名さがる，写汉字的话就写下がる。
+
+
+
 ## <small>[20191127]</small> そのまま動くな！
 
 **そのまま動くな！**
@@ -104,6 +132,8 @@ Be careful.
 
 **危险！**
 
+Watch out! / Look out!
+
  <img src="../../images/SSPD001/20191120.jpg" height="150px">
 
 | 单词   | 发音     |
@@ -122,9 +152,13 @@ Be careful.
 
 **撑起了雨伞。**
 
+I put up my umbrella. 
+
 **傘を閉じました。**
 
 **合上了雨伞。**
+
+I closed my umbrella.
 
  <img src="../../images/SSPD001/20191118.jpg" height="150px">
 
@@ -384,9 +418,9 @@ Be careful.
 
 ## <small>[20191028]</small> やあ！
 
- <img src="../../images/SSPD001/20191028.jpg" height="150px">
-
 **やあ！**
+
+ <img src="../../images/SSPD001/20191028.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
 
@@ -394,9 +428,9 @@ Be careful.
 
 ## <small>[20191027]</small> 起きなさい！
 
- <img src="../../images/SSPD001/20191027.gif" height="150px">
-
 **起きなさい！**
+
+ <img src="../../images/SSPD001/20191027.gif" height="150px">
 
 （讲解亡佚，有缘再续）
 
@@ -404,9 +438,9 @@ Be careful.
 
 ## <small>[20191026]</small> ゆうべ遅かったんです。
 
- <img src="../../images/SSPD001/20191026.jpg" height="150px">
-
 **ゆうべ遅かったんです。**
+
+ <img src="../../images/SSPD001/20191026.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
 
@@ -414,9 +448,9 @@ Be careful.
 
 ## <small>[20191025]</small> 眠い！
 
- <img src="../../images/SSPD001/20191025.jpg" height="150px">
-
 **眠い！**
+
+ <img src="../../images/SSPD001/20191025.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
 
@@ -424,9 +458,9 @@ Be careful.
 
 ## <small>[20191024]</small> 目覚ましが鳴りました。
 
- <img src="../../images/SSPD001/20191024.jpg" height="150px">
-
 **目覚ましが鳴りました。**
+
+ <img src="../../images/SSPD001/20191024.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
 
@@ -434,9 +468,9 @@ Be careful.
 
 ## <small>[20191023]</small> 目が覚めました。
 
- <img src="../../images/SSPD001/20191023.jpg" height="150px">
-
 **目が覚めました。**
+
+ <img src="../../images/SSPD001/20191023.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
 
@@ -444,9 +478,9 @@ Be careful.
 
 ## <small>[20191022]</small> お願いがあるのですが。
 
- <img src="../../images/SSPD001/20191022.jpg" height="150px">
-
 **お願いがあるのですが。**
+
+ <img src="../../images/SSPD001/20191022.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
 
@@ -454,9 +488,9 @@ Be careful.
 
 ## <small>[20191020]</small> 手伝っていただけますか？
 
- <img src="../../images/SSPD001/20191020.jpg" height="150px">
-
 **手伝っていただけますか？**
+
+ <img src="../../images/SSPD001/20191020.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
 
@@ -464,9 +498,9 @@ Be careful.
 
 ## <small>[20191018]</small> 手伝ってもらえますか？
 
- <img src="../../images/SSPD001/20191018.jpg" height="150px">
-
 **手伝ってもらえますか？**
+
+ <img src="../../images/SSPD001/20191018.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
 
@@ -475,9 +509,9 @@ Be careful.
 
 ## <small>[20191017]</small> ちょっとすみません。
 
- <img src="../../images/SSPD001/20191017.jpg" height="150px">
-
 **ちょっとすみません。**
+
+ <img src="../../images/SSPD001/20191017.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
 
@@ -485,9 +519,9 @@ Be careful.
 
 ## <small>[20191016]</small> お願いします。
 
- <img src="../../images/SSPD001/20191016.jpg" height="150px">
-
 **お願いします。**
+
+ <img src="../../images/SSPD001/20191016.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
 
@@ -495,11 +529,11 @@ Be careful.
 
 ## <small>[20191015]</small> 何か甘い食べ物が欲しい。
 
- <img src="../../images/SSPD001/20191015.jpg" height="150px">
-
 **何か甘い食べ物が欲しい。**
 
 **何か冷たい飲み物が欲しい。**
+
+ <img src="../../images/SSPD001/20191015.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
 
@@ -507,9 +541,9 @@ Be careful.
 
 ## <small>[20191014]</small> 何か食べ物が欲しい。
 
- <img src="../../images/SSPD001/20191014.jpg" height="150px">
-
 **何か食べ物が欲しい。**
+
+ <img src="../../images/SSPD001/20191014.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
 
@@ -517,9 +551,9 @@ Be careful.
 
 ## <small>[20191012]</small> お腹がペコペコです。
 
- <img src="../../images/SSPD001/20191012.jpg" height="150px">
-
 **お腹がペコペコです。**
+
+ <img src="../../images/SSPD001/20191012.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
 
@@ -527,9 +561,9 @@ Be careful.
 
 ## <small>[20191011]</small> のどが渇きました。
 
- <img src="../../images/SSPD001/20191011.jpg" height="150px">
-
 **のどが渇きました。**
+
+ <img src="../../images/SSPD001/20191011.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
 
@@ -537,9 +571,9 @@ Be careful.
 
 ## <small>[20191010]</small> お腹がすきました。
 
- <img src="../../images/SSPD001/20191010.jpg" height="150px">
-
 **お腹がすきました。**
+
+ <img src="../../images/SSPD001/20191010.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
 
@@ -547,9 +581,9 @@ Be careful.
 
 ## <small>[20191009]</small> すみません。お手洗いはどこですか。
 
- <img src="../../images/SSPD001/20191009.jpg" height="150px">
-
 **すみません。お手洗いはどこですか。**
+
+ <img src="../../images/SSPD001/20191009.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
 
@@ -557,8 +591,8 @@ Be careful.
 
 ## <small>[20191007]</small> 初めまして。私は __ です。
 
- <img src="../../images/SSPD001/20191007.jpg" height="150px">
-
 **初めまして。私は __ です。中国から来ました。どうぞよろしく。**
+
+ <img src="../../images/SSPD001/20191007.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
