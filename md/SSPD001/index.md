@@ -6,6 +6,32 @@
 
 [TOC]
 
+## <small>[20191207]</small> わかりましたか？
+
+**わかりましたか？**
+
+**明白了吗？**
+
+Do you understand?
+
+ <img src="../../images/SSPD001/20191207.jpg" height="150px">
+
+| 单词               | 发音   |
+| ------------------ | ------ |
+| 分かる・解る・判る | わかる |
+
+わかる，动词，意思是懂、明白。
+
+わかりましたか就是询问听懂了吗、明白了吗的意思。
+
+肯定回答，听懂了就是わかりました。
+
+否定回答，不明白就是わかりません。
+
+わかる的当用汉字一般写分かる，少数需要精准区分语境时会写解る或判る。
+
+暂时只记平假名写法就行。
+
 ## <small>[20191204]</small> さがれ！
 
 **さがれ！**
@@ -182,6 +208,8 @@ I closed my umbrella.
 
 **正在下雪。**
 
+It's snowing.
+
  <img src="../../images/SSPD001/20191116.jpg" height="150px">
 
 | 单词 | 发音 |
@@ -197,6 +225,8 @@ I closed my umbrella.
 
 **正阴天。**
 
+it's cloudy.
+
  <img src="../../images/SSPD001/20191115.jpg" height="150px">
 
 | 单词 | 发音   |
@@ -210,6 +240,8 @@ I closed my umbrella.
 **雨が降っています。**
 
 **正在下雨。**
+
+It's rainy.
 
  <img src="../../images/SSPD001/20191113.jpg" height="150px">
 
@@ -241,6 +273,8 @@ I closed my umbrella.
 
 **正晴。**
 
+It's nice / sunny / beautiful / wonderful.
+
  <img src="../../images/SSPD001/20191111.jpg" height="150px">
 
 | 单词   | 发音   |
@@ -263,6 +297,8 @@ I closed my umbrella.
 **彼と会うのが楽しみだなあ。**
 
 **我好期待和他见面啊。**
+
+I'm looking forward to seeing him.
 
  <img src="../../images/SSPD001/20191110.jpg" height="150px">
 
@@ -294,6 +330,8 @@ I closed my umbrella.
 
 **周末好想去什么地方玩儿啊。**
 
+I'd like to take a small trip this weekend.
+
  <img src="../../images/SSPD001/20191106.jpg" height="150px">
 
 | 单词 | 发音       |
@@ -316,6 +354,8 @@ I closed my umbrella.
 **君のところに行くよ。**
 
 **我（这就）去你那儿啦。**
+
+I'll come to your place.
 
  <img src="../../images/SSPD001/20191104.jpg" height="150px">
 
@@ -340,6 +380,8 @@ I closed my umbrella.
 
 **我今天晚上和丽莎去玩儿。**
 
+I'm going out with Lisa tonight.
+
  <img src="../../images/SSPD001/20191102.jpg" height="150px">
 
 | 单词 | 发音     |
@@ -362,6 +404,8 @@ I closed my umbrella.
 **遊びに行きたい！**
 
 **想去玩儿！**
+
+I wanna go out.
 
  <img src="../../images/SSPD001/20191031.jpg" height="150px">
 
@@ -387,6 +431,8 @@ I closed my umbrella.
 
 **我挺好呀，你呢？**
 
+I'm fine. How about you?
+
  <img src="../../images/SSPD001/20191030.jpg" height="150px">
 
 | 单词 | 发音   |
@@ -406,6 +452,8 @@ I closed my umbrella.
 
 **过得还好吗？（你好吗？）**
 
+How are you doing?
+
  <img src="../../images/SSPD001/20191029.jpg" height="150px">
 
 | 单词 | 发音   |
@@ -420,6 +468,10 @@ I closed my umbrella.
 
 **やあ！**
 
+**嗨！**
+
+Hi!
+
  <img src="../../images/SSPD001/20191028.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
@@ -430,7 +482,15 @@ I closed my umbrella.
 
 **起きなさい！**
 
+**起床！**
+
+Get up.
+
  <img src="../../images/SSPD001/20191027.gif" height="150px">
+
+| 单词   | 发音   |
+| ------ | ------ |
+| 起きる | おきる |
 
 （讲解亡佚，有缘再续）
 
@@ -440,7 +500,16 @@ I closed my umbrella.
 
 **ゆうべ遅かったんです。**
 
+**昨天晚上睡晚了。**
+
+I stayed up late last night.
+
  <img src="../../images/SSPD001/20191026.jpg" height="150px">
+
+| 单词     | 发音       |
+| -------- | ---------- |
+| 遅い     | おそい     |
+| 遅かった | おそかった |
 
 （讲解亡佚，有缘再续）
 
@@ -450,7 +519,15 @@ I closed my umbrella.
 
 **眠い！**
 
+**困！**
+
+I'm sleepy.
+
  <img src="../../images/SSPD001/20191025.jpg" height="150px">
+
+| 单词 | 发音   |
+| ---- | ------ |
+| 眠い | ねむい |
 
 （讲解亡佚，有缘再续）
 
@@ -466,6 +543,11 @@ The alarm went off.
 
  <img src="../../images/SSPD001/20191024.jpg" height="150px">
 
+| 单词     | 发音     |
+| -------- | -------- |
+| 目覚まし | めざまし |
+| 鳴る     | なる     |
+
 （讲解亡佚，有缘再续）
 
 
@@ -474,11 +556,16 @@ The alarm went off.
 
 **目が覚めました。**
 
-**（我）睡醒了。**
+**睡醒了。**
 
 I woke up.
 
  <img src="../../images/SSPD001/20191023.jpg" height="150px">
+
+| 单词   | 发音   |
+| ------ | ------ |
+| 目     | め     |
+| 覚める | さめる |
 
 （讲解亡佚，有缘再续）
 
@@ -494,6 +581,10 @@ Do me a favor.
 
  <img src="../../images/SSPD001/20191022.jpg" height="150px">
 
+| 单词 | 发音   |
+| ---- | ------ |
+| 願い | ねがい |
+
 （讲解亡佚，有缘再续）
 
 
@@ -508,6 +599,11 @@ Would you help me?
 
  <img src="../../images/SSPD001/20191020.jpg" height="150px">
 
+| 单词     | 发音       |
+| -------- | ---------- |
+| 手伝う   | てつだう   |
+| 手伝って | てつだって |
+
 （讲解亡佚，有缘再续）
 
 
@@ -521,6 +617,11 @@ Would you help me?
 Will you help me?
 
  <img src="../../images/SSPD001/20191018.jpg" height="150px">
+
+| 单词     | 发音       |
+| -------- | ---------- |
+| 手伝う   | てつだう   |
+| 手伝って | てつだって |
 
 （讲解亡佚，有缘再续）
 
@@ -537,6 +638,10 @@ Excuse me.
 
  <img src="../../images/SSPD001/20191017.jpg" height="150px">
 
+| 单词 | 发音 |
+| ---- | ---- |
+| 済む | すむ |
+
 （讲解亡佚，有缘再续）
 
 
@@ -550,6 +655,10 @@ Excuse me.
 Please.
 
  <img src="../../images/SSPD001/20191016.jpg" height="150px">
+
+| 单词 | 发音   |
+| ---- | ------ |
+| 願い | ねがい |
 
 （讲解亡佚，有缘再续）
 
@@ -571,6 +680,16 @@ I want something cold to drink.
 
  <img src="../../images/SSPD001/20191015.jpg" height="150px">
 
+| 单词   | 发音     |
+| ------ | -------- |
+| 何     | なに     |
+| 何か   | なにか   |
+| 甘い   | あまい   |
+| 食べ物 | たべもの |
+| 欲しい | ほしい   |
+| 冷たい | つめたい |
+| 飲み物 | のみもの |
+
 （讲解亡佚，有缘再续）
 
 
@@ -584,6 +703,13 @@ I want something cold to drink.
 I want something to eat.
 
  <img src="../../images/SSPD001/20191014.jpg" height="150px">
+
+| 单词   | 发音     |
+| ------ | -------- |
+| 何     | なに     |
+| 何か   | なにか   |
+| 食べ物 | たべもの |
+| 欲しい | ほしい   |
 
 （讲解亡佚，有缘再续）
 
@@ -599,6 +725,10 @@ I'm starved.
 
  <img src="../../images/SSPD001/20191012.jpg" height="150px">
 
+| 单词 | 发音   |
+| ---- | ------ |
+| お腹 | おなか |
+
 （讲解亡佚，有缘再续）
 
 
@@ -612,6 +742,10 @@ I'm starved.
 I'm thirsty.
 
  <img src="../../images/SSPD001/20191011.jpg" height="150px">
+
+| 单词       | 发音   |
+| ---------- | ------ |
+| 渇く・乾く | かわく |
 
 （讲解亡佚，有缘再续）
 
@@ -627,13 +761,18 @@ I'm hungry.
 
  <img src="../../images/SSPD001/20191010.jpg" height="150px">
 
+| 单词 | 发音   |
+| ---- | ------ |
+| お腹 | おなか |
+| 空く | すく   |
+
 （讲解亡佚，有缘再续）
 
 
 
-## <small>[20191009]</small> すみません。お手洗いはどこですか。
+## <small>[20191009]</small> すみません。お手洗いはどこですか？
 
-**すみません。お手洗いはどこですか。**
+**すみません。お手洗いはどこですか？**
 
 **不好意思。（请问）洗手间在哪里？**
 
@@ -650,5 +789,13 @@ I'm hungry.
 **初次见面。我是 __ 。我来自中国。请多关照。**
 
  <img src="../../images/SSPD001/20191007.jpg" height="150px">
+
+| 单词     | 发音       |
+| -------- | ---------- |
+| 初める   | はじめる   |
+| 私       | わたし     |
+| 中国     | ちゅうごく |
+| 来ます   | きます     |
+| 来ました | きました   |
 
 （讲解亡佚，有缘再续）
