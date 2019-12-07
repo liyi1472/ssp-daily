@@ -460,6 +460,10 @@ I closed my umbrella.
 
 **目覚ましが鳴りました。**
 
+**闹钟响了。**
+
+The alarm went off.
+
  <img src="../../images/SSPD001/20191024.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
@@ -469,6 +473,10 @@ I closed my umbrella.
 ## <small>[20191023]</small> 目が覚めました。
 
 **目が覚めました。**
+
+**（我）睡醒了。**
+
+I woke up.
 
  <img src="../../images/SSPD001/20191023.jpg" height="150px">
 
@@ -480,6 +488,10 @@ I closed my umbrella.
 
 **お願いがあるのですが。**
 
+**我有个请求（你看能不能……）。**
+
+Do me a favor.
+
  <img src="../../images/SSPD001/20191022.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
@@ -490,6 +502,10 @@ I closed my umbrella.
 
 **手伝っていただけますか？**
 
+**能帮我一下吗？**
+
+Would you help me?
+
  <img src="../../images/SSPD001/20191020.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
@@ -499,6 +515,10 @@ I closed my umbrella.
 ## <small>[20191018]</small> 手伝ってもらえますか？
 
 **手伝ってもらえますか？**
+
+**能帮我一下吗？**
+
+Will you help me?
 
  <img src="../../images/SSPD001/20191018.jpg" height="150px">
 
@@ -511,6 +531,10 @@ I closed my umbrella.
 
 **ちょっとすみません。**
 
+**麻烦一下。**
+
+Excuse me.
+
  <img src="../../images/SSPD001/20191017.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
@@ -520,6 +544,10 @@ I closed my umbrella.
 ## <small>[20191016]</small> お願いします。
 
 **お願いします。**
+
+**拜托了。（靠你了。）**
+
+Please.
 
  <img src="../../images/SSPD001/20191016.jpg" height="150px">
 
@@ -531,7 +559,15 @@ I closed my umbrella.
 
 **何か甘い食べ物が欲しい。**
 
+**我想吃甜的东西。**
+
+I want something sweet to eat.
+
 **何か冷たい飲み物が欲しい。**
+
+我想喝凉的东西。
+
+I want something cold to drink.
 
  <img src="../../images/SSPD001/20191015.jpg" height="150px">
 
@@ -543,6 +579,10 @@ I closed my umbrella.
 
 **何か食べ物が欲しい。**
 
+**我想吃东西。**
+
+I want something to eat.
+
  <img src="../../images/SSPD001/20191014.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
@@ -552,6 +592,10 @@ I closed my umbrella.
 ## <small>[20191012]</small> お腹がペコペコです。
 
 **お腹がペコペコです。**
+
+**我快饿死了。**
+
+I'm starved.
 
  <img src="../../images/SSPD001/20191012.jpg" height="150px">
 
@@ -563,6 +607,10 @@ I closed my umbrella.
 
 **のどが渇きました。**
 
+**我渴了。**
+
+I'm thirsty.
+
  <img src="../../images/SSPD001/20191011.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
@@ -572,6 +620,10 @@ I closed my umbrella.
 ## <small>[20191010]</small> お腹がすきました。
 
 **お腹がすきました。**
+
+**我饿了。**
+
+I'm hungry.
 
  <img src="../../images/SSPD001/20191010.jpg" height="150px">
 
@@ -583,6 +635,8 @@ I closed my umbrella.
 
 **すみません。お手洗いはどこですか。**
 
+**不好意思。（请问）洗手间在哪里？**
+
  <img src="../../images/SSPD001/20191009.jpg" height="150px">
 
 （讲解亡佚，有缘再续）
@@ -592,6 +646,8 @@ I closed my umbrella.
 ## <small>[20191007]</small> 初めまして。私は __ です。
 
 **初めまして。私は __ です。中国から来ました。どうぞよろしく。**
+
+**初次见面。我是 __ 。我来自中国。请多关照。**
 
  <img src="../../images/SSPD001/20191007.jpg" height="150px">
 
