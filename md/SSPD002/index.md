@@ -12,7 +12,7 @@
 
 **绿蚁新醅 <sup>pēi</sup> 酒，红泥小火炉。晚来天欲雪，能饮一杯无？**
 
- <img src="../../images/SSPD002/20191210.jpg" height="300px">
+ <img src="../../images/SSPD002/20191210.jpg" width="300px">
 
 <small>[**听歌曲**](https://www.ximalaya.com/ertong/3533672/142630000)</small>
 
@@ -41,7 +41,7 @@
 
 **邯郸驿里逢冬至，抱膝灯前影伴身。想得家中夜深坐，还应说着远行人。**
 
- <img src="../../images/SSPD002/20191205.jpg" height="300px">
+ <img src="../../images/SSPD002/20191205.jpg" width="300px">
 
 <small>[**听歌曲**](https://www.ximalaya.com/ertong/3533672/145292106)</small>
 
@@ -81,7 +81,7 @@
 
 **空山不见人，但闻人语响。返景 <sup>yǐng</sup> 入深林，复照青苔上。**
 
- <img src="../../images/SSPD002/20191203.jpg" height="300px">
+ <img src="../../images/SSPD002/20191203.jpg" width="300px">
 
 <small>[**听歌曲**](https://www.ximalaya.com/ertong/3533672/25064692)</small>
 
