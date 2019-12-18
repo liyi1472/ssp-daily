@@ -92,4 +92,4 @@
 
 ## 形容词分类及变形
 
-![](../../../images/SSPD001/lib/adjective.jpg)
+![](../../../images/SSPD001/lib/adjective.png)
